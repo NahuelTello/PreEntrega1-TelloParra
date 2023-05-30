@@ -1,5 +1,5 @@
 {
-  "homepage" : "https://github.com/NahuelTello/PreEntrega1-TelloParra.git",
+  "homepage": "https://NahuelTello.github.io/PreEntrega1-TelloParra",
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
@@ -22,6 +22,7 @@
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.3.4",
+    "gh-pages": "^5.0.0",
     "vite": "^4.3.2"
   }
 }
